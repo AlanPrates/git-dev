@@ -1,5 +1,7 @@
-##Olá mundo do Git
-Olá esse é um arquivo em formato Markdown. Esse é meu primeiro projeto Git dentro da Residência TIC18.
+# Olá mundo do Git
 
-##Objetivo
-Conhecer os comandos básicos e algumas recomendações para o uso do Git e do Github.
+Este é um arquivo em formato Markdown. Este é meu primeiro projeto Git dentro da Residência TIC18.
+
+## Objetivo
+
+O objetivo deste projeto é conhecer os comandos básicos e algumas recomendações para o uso do Git e do Github.
