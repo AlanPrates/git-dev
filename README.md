@@ -1,6 +1,7 @@
-# Titulo do meu README
-Aqui neste arquivo README teremos as informações relativas ao nosso projeto.
-
-## Subtitulo do README
-- Tópico 1: ti ti ti ti
-- Tópico 2: bla bla bla
+# Olá mundo do Git
+Olá esse é um arquivo em formato *Markdown*.
+Esse é meu primeiro projeto Git dentro da **Residência 
+TIC18**.
+## Objetivo
+Conhecer os comandos básicos e algumas recomendações 
+para o uso do Git e do Github.
